@@ -64,7 +64,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Walkr
         subtitle: Mobile App Prototype
         text: |
           A clean, user-friendly app for guided walking meditations
