@@ -8,10 +8,18 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Multidisciplinary Designer
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      I’m a designer who works across different areas from apps and websites to
+      branding and animation. I enjoy combining creativity with problem-solving
+      to make things that look good and work well. In a week alone, I designed a
+      new app layout, refreshed the look of a small business brand, and created
+      eye-catching animations for social media. Whether I’m building a
+      user-friendly interface or helping someone tell their story visually, I
+      focus on making ideas clear, useful, and engaging.
+
+
+
+
     actions:
       - label: Get started
         altText: ''
