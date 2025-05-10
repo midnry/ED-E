@@ -164,7 +164,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Passion Projects
+  - subtitle: Conceptual Work Inspired by
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
