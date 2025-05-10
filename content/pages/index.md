@@ -92,10 +92,8 @@ sections:
               borderRadius: x-large
       - title: Bean & Bloom Café
         subtitle: Brand Refresh
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          A cozy new look for a local coffee shop’s logo and menus.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
