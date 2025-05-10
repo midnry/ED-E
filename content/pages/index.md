@@ -65,7 +65,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 500k
-        subtitle: Numbers Done
+        subtitle: Mobile App Prototype
         text: |
           A clean, user-friendly app for guided walking meditations
         actions: []
