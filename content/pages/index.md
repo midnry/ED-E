@@ -113,7 +113,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
+      - title: Social Promo Pack
         subtitle: Motion Graphics
         text: |
           Quick, engaging animations for a product launch.
