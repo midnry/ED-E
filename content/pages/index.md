@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Multidisciplinary DESIGNER
+      label: 'ABUJA, NIGERIA'
       color: text-primary
       type: Badge
     elementId: ''
