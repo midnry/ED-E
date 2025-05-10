@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: GRAPHIC DESIGNER
+      label: Multidisciplinary DESIGNER
       color: text-primary
       type: Badge
     elementId: ''
