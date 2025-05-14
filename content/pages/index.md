@@ -64,7 +64,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Walkr
+        title: Cosgrove
         subtitle: Mobile App Prototype
         text: |
           A clean, user-friendly app for guided walking meditations
