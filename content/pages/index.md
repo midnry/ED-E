@@ -84,7 +84,7 @@ sections:
             textAlign: left
         image:
           type: ImageBlock
-          altText: Lightning bolt symbol on red background
+          altText: Cosgrove Logo
           elementId: ''
           url: /images/Cosgrove Logo1.svg
           styles:
