@@ -65,7 +65,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Cosgrove
-        subtitle: 'Brand '
+        subtitle: Branded Content
         text: |
           A clean, user-friendly app for guided walking meditations
         actions: []
