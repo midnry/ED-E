@@ -66,8 +66,9 @@ sections:
       - type: FeaturedItem
         title: Cosgrove
         subtitle: Branded Content
-        text: |
-          A clean, user-friendly app for guided walking meditations
+        text: >
+          Branded posts crafted for holidays, promotions, and audience
+          engagement.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
