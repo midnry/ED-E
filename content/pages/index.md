@@ -86,7 +86,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/Cosgrove Logoo.svg
+          url: /images/Cosgrove Logo1.svg
           styles:
             self:
               borderRadius: x-large
